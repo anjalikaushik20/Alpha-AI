@@ -18,8 +18,8 @@ Create a data dashboard with the given small dataset.
 Create a data dashboard with the given dataset of the US Super Store.
 
 [Solution Video](https://github.com/anjalikaushik20/Alpha-AI/blob/master/Week1/Week1.mp4), 
-[Dashboard Image](https://github.com/anjalikaushik20/Alpha-AI/blob/master/Week0/Week1.png),
-[Excel File](https://github.com/anjalikaushik20/Alpha-AI/blob/master/Week0/Week1.xlsx)
+[Dashboard Image](https://github.com/anjalikaushik20/Alpha-AI/blob/master/Week1/Week1.png),
+[Excel File](https://github.com/anjalikaushik20/Alpha-AI/blob/master/Week1/Week1.xlsx)
 
 ---
 
@@ -29,9 +29,9 @@ Create a data dashboard with the strategy to increase the total sales by 25% in 
 Use What-if analysis and Goal-Seek for the same.
 Select one product from each of the four regions to boost up the sales.
 
-[Solution Video](https://github.com/anjalikaushik20/Alpha-AI/blob/master/Week0/Week2.mp4), 
-[Dashboard Image](https://github.com/anjalikaushik20/Alpha-AI/blob/master/Week0/Week2.png),
-[Excel File](https://github.com/anjalikaushik20/Alpha-AI/blob/master/Week0/Week2.xlsx)
+[Solution Video](https://github.com/anjalikaushik20/Alpha-AI/blob/master/Week2/Week2.mp4), 
+[Dashboard Image](https://github.com/anjalikaushik20/Alpha-AI/blob/master/Week2/Week2.png),
+[Excel File](https://github.com/anjalikaushik20/Alpha-AI/blob/master/Week2/Week2.xlsx)
 
 ---
 
@@ -40,14 +40,20 @@ Select one product from each of the four regions to boost up the sales.
 Create a data dashboard with the strategy to increase the total sales by 25% in the upcoming year, 2020.
 Use Monte-Carlo Simulations and Forecasting Functions to do so.
 
-[Solution Video](https://github.com/anjalikaushik20/Alpha-AI/blob/master/Week0/Week3.mp4), 
-[Dashboard Image](https://github.com/anjalikaushik20/Alpha-AI/blob/master/Week0/Week3.png),
-[Excel File](https://github.com/anjalikaushik20/Alpha-AI/blob/master/Week0/Week3.xlsx)
+[Solution Video](https://github.com/anjalikaushik20/Alpha-AI/blob/master/Week3/Week3.mp4), 
+[Dashboard Image](https://github.com/anjalikaushik20/Alpha-AI/blob/master/Week3/Week3.png),
+[Excel File](https://github.com/anjalikaushik20/Alpha-AI/blob/master/Week3/Week3.xlsx)
 
 ---
 
 ### Week 4:
 #### Problem Statement
+Ananlyze the given monthly sales data and interpret it in a single visual chart.
+Write a formal email as a leader to the team giving them insights of the same.
+
+[Solution Image](https://github.com/anjalikaushik20/Alpha-AI/blob/master/Week4/Week4.png),
+[Word File](https://github.com/anjalikaushik20/Alpha-AI/blob/master/Week4/Week4.docx),
+[Excel File](https://github.com/anjalikaushik20/Alpha-AI/blob/master/Week4/Week4.xlsx)
 
 ---
 
