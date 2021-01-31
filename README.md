@@ -59,3 +59,12 @@ Write a formal email as a leader to the team giving them insights of the same.
 
 ### Week 5:
 #### Problem Statement
+Create a data dashboard and a data story with the US Super Store dataset using the learnings from Week 1 to Week 4.
+[Solution Image](https://github.com/anjalikaushik20/Alpha-AI/blob/master/Week5/Week5.png),
+[Strategy](https://github.com/anjalikaushik20/Alpha-AI/blob/master/Week5/Week5-Strategy.pdf),
+[Excel File](https://github.com/anjalikaushik20/Alpha-AI/blob/master/Week5/Week5.xlsx)
+
+---
+
+## Completion Certificate:
+****************************** The certificate will be updated soon! *******************************
