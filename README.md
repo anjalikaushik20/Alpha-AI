@@ -66,5 +66,11 @@ Create a data dashboard and a data story with the US Super Store dataset using t
 
 ---
 
-## Completion Certificate:
-****************************** The certificate will be updated soon! *******************************
+## Completion Certificates:
+Two certificates have been awarded for completing the fellowship at Alpha AI.
+1. [Citizen Data Explorer](https://github.com/anjalikaushik20/Alpha-AI/blob/master/Certificates/CDE.pdf)
+2. [Citizen Data Storyteller](https://github.com/anjalikaushik20/Alpha-AI/blob/master/Certificates/CDStory.pdf)
+
+---
+
+End of file
